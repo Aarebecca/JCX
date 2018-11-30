@@ -1,0 +1,16 @@
+{
+	"database":{
+		"host":"127.0.0.1",
+		"user":"root",
+		"password":"123456",
+		"database":"jcx",
+		"port":3306
+	},
+	"static_base":"/static",
+    "account":{
+        "rsa_pub_key_path":""
+    },
+    "https": {
+
+    }
+}

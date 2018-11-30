@@ -1,0 +1,44 @@
+{
+  "images": {
+      "basedir": "/static/images",
+      "logo": "logo.png",
+      "swiper": [
+          "swiper1.png",
+          "swiper2.png"
+      ]
+  },
+  "module": [
+      {
+          "id": 1,
+          "name": "合作交流",
+          "statue": "enable",
+          "authority": [
+            "admin",
+            "teacher",
+            "student",
+            "everyone"
+          ]
+      },
+      {
+          "id": 2,
+          "name": "校友之家",
+          "statue": "enable",
+          "authority": [
+            "admin",
+            "teacher",
+            "student",
+            "everyone"
+          ]
+      },
+      {
+          "id": 3,
+          "name": "实验室预约",
+          "statue": "enable",
+          "authority": [
+            "admin",
+            "teacher",
+            "student"
+          ]
+      }
+  ]
+}
